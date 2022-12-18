@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bexazavr.github.io/rsschool-cv/
