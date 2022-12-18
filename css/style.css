@@ -129,7 +129,6 @@ html {
 }
 .cv-wrap {
   background-color: var(--main-bg-color);
-  min-width: 580px;
   max-width: 1000px;
   min-height: 100vh;
   margin: 0 auto;
@@ -154,7 +153,6 @@ html {
 }
 .section-content-wrap {
   min-height: 100px;
-  min-width: 480px;
   padding: 1.8rem;
   background-color: var(--section-bg-color);
   border-radius: 25px;
